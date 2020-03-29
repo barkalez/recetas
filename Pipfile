@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 django = "==3.0"
 django-registration = "==3.1"
+python-dev = "*"
+libpq-dev = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.7"
