@@ -1,0 +1,27 @@
+body {
+
+    background-color: rgb(43, 176, 243);
+    font-family: 'Gotu', sans-serif;
+}
+
+.borde{
+    border: 1px #000 solid; text-align: center; height: 50px;
+}
+
+.color1{
+    background: #eeeeee;
+}
+
+.color2{
+    background: #fcc314;
+    
+}
+
+.color3{
+    background: #94ac3c;
+}
+
+.color4{
+    background: #04306d;
+    height: 500px;
+}
